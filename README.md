@@ -18,6 +18,6 @@ A classic **Tic Tac Toe** game built with HTML, CSS, and JavaScript.
 [Click here to play!](https://kundarapuindu.github.io/Tic-Tac-Toe-Game/)
 
 ## 📁 Folder Structure
-├── index.html 
-├── style.css 
-└── script.js
+├── TicTacToe.html 
+├── TicTacToe.css 
+└── TicTacToe.js
